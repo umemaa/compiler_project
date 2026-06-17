@@ -1,4 +1,4 @@
-# Mini Compiler Project
+# Compiler Project
 
 A Python-based Mini Compiler with a GUI built using Tkinter.
 
